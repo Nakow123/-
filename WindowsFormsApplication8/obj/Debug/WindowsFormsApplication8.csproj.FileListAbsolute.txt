@@ -1,0 +1,30 @@
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+d:\11klas\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\11klas\Source\Repos\ZADANIE-1\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\11klas\Source\Repos\Zadanie1\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\11klas\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\11klas\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Zadanie1\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
